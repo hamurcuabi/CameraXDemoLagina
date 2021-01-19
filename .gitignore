@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/lagina-camerax/build/
+/lagina-camerax/build/intermediates/javac/debug/classes/
